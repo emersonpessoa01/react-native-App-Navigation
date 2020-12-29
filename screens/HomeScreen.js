@@ -64,7 +64,7 @@ export default class HomeScreen extends React.Component {
 }
 
 HomeScreen.navigationOptions = {
-  title: 'react-native-app-navigation',
+  title: 'app-navigation',
 };
 
 const styles = StyleSheet.create({
