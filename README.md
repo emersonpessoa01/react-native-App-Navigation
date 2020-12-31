@@ -2,11 +2,12 @@
 * npm install expo-cli --global<br>
 * expo init <name_app><br>
 * npm install @react-navigation/native<br>
-* expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+* expo install @react-native-async-storage/async-storage<br>
+* expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context react-native-community/masked-view
 <br>
 * expo start<br>
-* expo install @react-native-async-storage/async-storage<br>
- ad
+
+
 ### Preview:
 <hr> 
      <p align="center">
