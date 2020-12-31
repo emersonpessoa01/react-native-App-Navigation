@@ -6,6 +6,7 @@
 <br>
 * expo start<br>
 * expo install @react-native-async-storage/async-storage<br>
+ ad
 ### Preview:
 <hr> 
      <p align="center">
